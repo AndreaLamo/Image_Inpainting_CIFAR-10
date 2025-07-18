@@ -1,0 +1,1 @@
+This folder contains the weights of the denoising u_net autoencoders after 10, 20 and 30 epochs of training on the CIFAR-10 dataset.
